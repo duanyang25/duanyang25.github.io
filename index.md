@@ -7,7 +7,7 @@ title: About me
     <img style="float:right;text-align:left;border-radius:10%" src="/assets/avatar.jpg" alt="avatar" width="20%">
 </div>
 
-I am an undergraduate student at the Department of Computer Science, [University of Illinois Urbana-Champaign](https://illinois.edu/about/index.html). His current research interests include database management system, text information system, and computer system.
+I am an undergraduate student at the Department of Computer Science, [University of Illinois Urbana-Champaign](https://illinois.edu/about/index.html). My current research interests include database management system, text information system, and computer system.
 
 <!-- [[CV](https:)]  -->
 [[GitHub](https://github.com/duanyang25)] 
