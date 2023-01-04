@@ -1,0 +1,47 @@
+title: Yang Duan
+author:
+  name: Yang Duan
+  email: yangd4@illinois.edu
+description: >- # this means to ignore newlines until "baseurl:"
+    I'm Yang Duan, a Computer Science undergraduate student at [University of Illinois Urbana-Champaign](https://illinois.edu/about/index.html).
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
+
+minima:
+  skin: classic
+  social_links:
+    # - { platform: email,  user_url: "mailto:yangd4@illinois.edu" }
+    - { platform: github,  user_url: "https://github.com/duanyang25" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/duanyang25/" }
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+header_pages:
+    - publications.md
+
+# google_analytics: 
