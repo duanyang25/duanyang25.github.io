@@ -58,14 +58,14 @@ B.S. in Computer Science at **[University of Illinois Urbana-Champaign](https://
 
 <!-- ### Preprints ### -->
 ### Experience ###
-Research Assistant, [Web and Software Technology Research Lab of Tsinghua University](https://www.riit.tsinghua.edu.cn/riiten/info/1061/1660.htm)
+Research Assistant, **[Web and Software Technology Research Lab of Tsinghua University](https://www.riit.tsinghua.edu.cn/riiten/info/1061/1660.htm)**
 <br />
     January 2021 – December 2021, May 2022 – January 2023 
 <br />
     Beijing, China
 
 
-Data Analyst Intern, [Tencent](https://www.tencent.com/en-us/index.html)
+Data Analyst Intern, **[Tencent](https://www.tencent.com/en-us/index.html)**
 <br />
     February 2022 – May 2022
 <br />
@@ -78,4 +78,4 @@ Data Analyst Intern, [Tencent](https://www.tencent.com/en-us/index.html)
 ### Honor ###
 
 [Deans List](https://advising.grainger.illinois.edu/academic-standing/academic-recognition)   
-Dec 2019 – Dec 2022 [The Grainger College of Engineering](https://grainger.illinois.edu/)
+Dec 2019 – Dec 2022 **[The Grainger College of Engineering](https://grainger.illinois.edu/)**
