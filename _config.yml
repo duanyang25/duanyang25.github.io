@@ -3,8 +3,7 @@ author:
   name: Yang Duan
   email: yangd4@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
-    I'm Yang Duan, a Computer Science undergraduate student at [University of Illinois Urbana-Champaign](https://illinois.edu/about/index.html).
-
+    I'm Yang Duan, a Computer Science undergraduate student at University of Illinois Urbana-Champaign.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
