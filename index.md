@@ -75,6 +75,11 @@ Data Analyst Intern, **[Tencent](https://www.tencent.com/en-us/index.html)**
     - Guided to write codes to collect data from databases with complex requirements    
     - Collaborated to analyze data to find trends by utilizing Data Science packages and tools -->
 
+### Service ###
+CS361 Course Assistant, **[Department of Computer Science](https://cs.illinois.edu/)**
+<br />
+    Fall 2022, Spring 2023
+
 ### Honor ###
 
 [Deans List](https://advising.grainger.illinois.edu/academic-standing/academic-recognition)   
