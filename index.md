@@ -60,6 +60,8 @@ B.S. in Computer Science at **[University of Illinois Urbana-Champaign](https://
 ## Experience ##
 Research Assistant, **[Web and Software Technology Research Lab of Tsinghua University](https://www.riit.tsinghua.edu.cn/riiten/info/1061/1660.htm)**
 <br />
+Under the supervision of [Prof. Yong Zhang](https://dagege.github.io/)
+<br />
     January 2021 – December 2021, May 2022 – January 2023 
 <br />
     Beijing, China
