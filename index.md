@@ -82,7 +82,11 @@ Data Analyst Intern, **[Tencent](https://www.tencent.com/en-us/index.html)**
 CS361 Course Assistant, **[Department of Computer Science](https://cs.illinois.edu/)**
 <br />
     Fall 2022, Spring 2023
-
+    
+STAT207 Course Assistant, **[Department of Statistics](https://stat.illinois.edu/)**
+<br />
+    Spring 2023
+    
 ### Honor ###
 
 [Deans List](https://advising.grainger.illinois.edu/academic-standing/academic-recognition)   
