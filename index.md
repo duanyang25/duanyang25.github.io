@@ -52,9 +52,10 @@ B.S. in Computer Science at **[University of Illinois Urbana-Champaign](https://
 <br />
     https://doi.org/10.1007/978-3-030-87571-8_7
 <br />
-<!-- [[video](https://)] 
-[[slides](https://github.com/)] -->
 [[code](https://github.com/thu-west/Learned-AQP)] 
+[<a href="https://duanyang25.github.io/assets/WISA2021/WISA2021presentation_online_pre_recording.mp4" target="_blank">video</a>]
+[<a href="https://duanyang25.github.io/assets/WISA2021/WISA2021slides_final.pdf" target="_blank">slides</a>]
+
 
 <!-- ### Preprints ### -->
 ## Experience ##
