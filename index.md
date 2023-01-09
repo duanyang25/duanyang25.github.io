@@ -26,7 +26,7 @@ B.S. in Computer Science at **[University of Illinois Urbana-Champaign](https://
 <br />
     In: Traina, A., Wang, H., Zhang, Y., Siuly, S., Zhou, R., Chen, L. (eds) Health Information Science. HIS 2022. Lecture Notes in Computer Science, vol 13705. Springer, Cham. 
 <br />
-    https://doi.org/10.1007/978-3-031-20627-6_12.
+    https://doi.org/10.1007/978-3-031-20627-6_12
 <br />
 <!-- [[video](https://)] 
 [[slides](https://github.com/)] 
