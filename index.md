@@ -59,7 +59,7 @@ B.S. in Computer Science at **[University of Illinois Urbana-Champaign](https://
 
 <!-- ### Preprints ### -->
 ## Experience ##
-Research Assistant, **[IoT@Illinois](https://iot.cs.illinois.edu/welcome/)**
+Research Assistant, **[Illinois Center for IoT](https://iot.cs.illinois.edu/welcome/)**
 <br />
 Under the supervision of [Prof. Matthew Caesar](https://caesar.web.engr.illinois.edu/)
 <br />
