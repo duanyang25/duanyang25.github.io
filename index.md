@@ -59,6 +59,14 @@ B.S. in Computer Science at **[University of Illinois Urbana-Champaign](https://
 
 <!-- ### Preprints ### -->
 ## Experience ##
+Research Assistant, **[IoT@Illinois](https://iot.cs.illinois.edu/welcome/)**
+<br />
+Under the supervision of [Prof. Matthew Caesar](https://caesar.web.engr.illinois.edu/)
+<br />
+    January 2023 – Present 
+<br />
+    Champaign, U.S.
+    
 Research Assistant, **[Web and Software Technology Research Lab of Tsinghua University](https://www.riit.tsinghua.edu.cn/riiten/info/1061/1660.htm)**
 <br />
 Under the supervision of [Prof. Yong Zhang](https://dagege.github.io/)
