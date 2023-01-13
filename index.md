@@ -67,7 +67,6 @@ Under the supervision of [Prof. Yong Zhang](https://dagege.github.io/)
 <br />
     Beijing, China
 
-
 Data Analyst Intern, **[Tencent](https://www.tencent.com/en-us/index.html)**
 <br />
     February 2022 – May 2022
