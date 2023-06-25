@@ -7,7 +7,7 @@ title: About me
     <img style="float:right;text-align:left;border-radius:10%" src="/assets/avatar.jpg" alt="avatar" width="20%">
 </div>
 
-I am an undergraduate student at the Department of Computer Science, [University of Illinois Urbana-Champaign](https://illinois.edu/about/index.html). My current research interests include database management system, text information system, and computer system.
+I am an undergraduate student at the Department of Computer Science, [University of Illinois Urbana-Champaign](https://illinois.edu/about/index.html). My current research interests are Networking and Operating/Distributed Systems in Computer Systems.
 
 <!-- [[CV](https:)]  -->
 [[GitHub](https://github.com/duanyang25)] 
@@ -85,12 +85,16 @@ Data Analyst Intern, **[Tencent](https://www.tencent.com/en-us/index.html)**
     - Guided to write codes to collect data from databases with complex requirements    
     - Collaborated to analyze data to find trends by utilizing Data Science packages and tools -->
 
-### Service ###
+### Teaching ###
 CS361 Course Assistant, **[Department of Computer Science](https://cs.illinois.edu/)**
+<br />
+Led by Professor [Hongye Liu](https://cs.illinois.edu/about/people/faculty/hl314)
 <br />
     Fall 2022, Spring 2023
     
 STAT207 Course Assistant, **[Department of Statistics](https://stat.illinois.edu/)**
+<br />
+Led by Professor [Julie Deeke](https://stat.illinois.edu/directory/profile/jdeeke)
 <br />
     Spring 2023
     
