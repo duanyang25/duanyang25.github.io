@@ -19,6 +19,17 @@ I am an undergraduate student at the Department of Computer Science, [University
 B.S. in Computer Science at **[University of Illinois Urbana-Champaign](https://illinois.edu/about/index.html)**
 
 ## Publications ##
+**[Towards out-of-distribution generalizable predictions of chemical kinetics properties](https://arxiv.org/abs/2310.03152)**
+<br />
+    Zihao Wang, Yongqiang Chen, Yang Duan, Weijiang Li, Bo Han, James Cheng, Hanghang Tong 
+<br />
+    ArXiv Preprint
+<br />
+    [https://doi.org/10.48550/arXiv.2310.03152](https://doi.org/10.48550/arXiv.2310.03152)
+<br />
+<!-- [[video](https://)] 
+[[slides](https://github.com/)] 
+[[code](https://github.com/)] -->
 
 **[MHDML: Construction of a Medical Lakehouse for Multi-source Heterogeneous Data](https://link.springer.com/chapter/10.1007/978-3-031-20627-6_12)**
 <br />
@@ -26,7 +37,7 @@ B.S. in Computer Science at **[University of Illinois Urbana-Champaign](https://
 <br />
     In: Traina, A., Wang, H., Zhang, Y., Siuly, S., Zhou, R., Chen, L. (eds) Health Information Science. HIS 2022. Lecture Notes in Computer Science, vol 13705. Springer, Cham. 
 <br />
-    https://doi.org/10.1007/978-3-031-20627-6_12
+    [https://doi.org/10.1007/978-3-031-20627-6_12](https://doi.org/10.1007/978-3-031-20627-6_12)
 <br />
 <!-- [[video](https://)] 
 [[slides](https://github.com/)] 
@@ -38,7 +49,7 @@ B.S. in Computer Science at **[University of Illinois Urbana-Champaign](https://
 <br />
     In: Traina, A., Wang, H., Zhang, Y., Siuly, S., Zhou, R., Chen, L. (eds) Health Information Science. HIS 2022. Lecture Notes in Computer Science, vol 13705. Springer, Cham.
 <br />
-    https://doi.org/10.1007/978-3-031-20627-6_23
+    [https://doi.org/10.1007/978-3-031-20627-6_23](https://doi.org/10.1007/978-3-031-20627-6_23)
 <br />
 <!-- [[video](https://)] 
 [[slides](https://github.com/)] 
