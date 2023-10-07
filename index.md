@@ -21,7 +21,7 @@ B.S. in Computer Science at **[University of Illinois Urbana-Champaign](https://
 ## Publications ##
 **[Towards out-of-distribution generalizable predictions of chemical kinetics properties](https://arxiv.org/abs/2310.03152)**
 <br />
-    Zihao Wang, Yongqiang Chen, Yang Duan, Weijiang Li, Bo Han, James Cheng, Hanghang Tong 
+    Zihao Wang, Yongqiang Chen, **Yang Duan**, Weijiang Li, Bo Han, James Cheng, Hanghang Tong 
 <br />
     ArXiv Preprint
 <br />
