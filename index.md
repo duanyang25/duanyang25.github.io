@@ -78,11 +78,11 @@ Under the supervision of [Prof. Matthew Caesar](https://caesar.web.engr.illinois
 <br />
     Champaign, U.S.
     
-Research Assistant, **[Web and Software Technology Research Lab of Tsinghua University](https://www.riit.tsinghua.edu.cn/riiten/info/1061/1660.htm)**
+Research Assistant, **[Beijing National Research Center for Information Science and Technology at Tsinghua University](https://www.riit.tsinghua.edu.cn/riiten/info/1061/1660.htm)**
 <br />
 Under the supervision of [Prof. Yong Zhang](https://dagege.github.io/)
 <br />
-    January 2021 – December 2021, May 2022 – January 2023 
+    January 2021 - January 2023 
 <br />
     Beijing, China
 
