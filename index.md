@@ -112,4 +112,4 @@ Led by Professor [Julie Deeke](https://stat.illinois.edu/directory/profile/jdeek
 ### Honor ###
 
 [Deans List](https://advising.grainger.illinois.edu/academic-standing/academic-recognition)   
-Dec 2019 – Dec 2022 **[The Grainger College of Engineering](https://grainger.illinois.edu/)**
+Fall 2019 – Spring 2023 **[The Grainger College of Engineering](https://grainger.illinois.edu/)**
