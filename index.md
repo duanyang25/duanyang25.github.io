@@ -74,7 +74,7 @@ Research Assistant, **[Illinois Center for IoT](https://iot.cs.illinois.edu/welc
 <br />
 Under the supervision of [Prof. Matthew Caesar](https://caesar.web.engr.illinois.edu/)
 <br />
-    January 2023 – Present 
+    January 2023 – October 2023 
 <br />
     Champaign, U.S.
     
