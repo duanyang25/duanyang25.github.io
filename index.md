@@ -19,13 +19,13 @@ I am an undergraduate student at the Department of Computer Science, [University
 B.S. in Computer Science at **[University of Illinois Urbana-Champaign](https://illinois.edu/about/index.html)**
 
 ## Publications ##
-**[Towards out-of-distribution generalizable predictions of chemical kinetics properties](https://arxiv.org/abs/2310.03152)**
+**[Towards out-of-distribution generalizable predictions of chemical kinetics properties](https://openreview.net/forum?id=2vernsvOi2)**
 <br />
     Zihao Wang, Yongqiang Chen, **Yang Duan**, Weijiang Li, Bo Han, James Cheng, Hanghang Tong 
 <br />
-    ArXiv Preprint
+    Accepted by the AI4Science workshop with NeurIPS 2023
 <br />
-    [https://doi.org/10.48550/arXiv.2310.03152](https://doi.org/10.48550/arXiv.2310.03152)
+    [https://openreview.net/forum?id=2vernsvOi2](https://openreview.net/forum?id=2vernsvOi2)
 <br />
 <!-- [[video](https://)] 
 [[slides](https://github.com/)] 
