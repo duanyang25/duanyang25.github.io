@@ -7,7 +7,7 @@ title: About me
     <img style="float:right;text-align:left;border-radius:10%" src="/assets/avatar.jpg" alt="avatar" width="20%">
 </div>
 
-I am an undergraduate student at the Department of Computer Science, [University of Illinois Urbana-Champaign](https://illinois.edu/about/index.html). My current research interests are Networking and Operating/Distributed Systems in Computer Systems.
+I am a graduate student at the Department of Computer Science, [Princeton University](https://www.cs.princeton.edu/). My current research interests are Computer Networking and Machine Learning in Computer Systems.
 
 <!-- [[CV](https:)]  -->
 [[GitHub](https://github.com/duanyang25)] 
@@ -110,6 +110,8 @@ Led by Professor [Julie Deeke](https://stat.illinois.edu/directory/profile/jdeek
     Spring 2023
     
 ### Honor ###
+[Bronze Tablet Award](https://cs.illinois.edu/about/awards/undergraduate-scholarships-awards/bronze-tablet-award)   
+Mar 2024 **[The Grainger College of Engineering](https://grainger.illinois.edu/)**
 
 [Deans List](https://advising.grainger.illinois.edu/academic-standing/academic-recognition)   
 Fall 2019 – Spring 2023 **[The Grainger College of Engineering](https://grainger.illinois.edu/)**
