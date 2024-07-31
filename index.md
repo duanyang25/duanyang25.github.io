@@ -19,6 +19,15 @@ I am a graduate student at the Department of Computer Science, [Princeton Univer
 B.S. in Computer Science at **[University of Illinois Urbana-Champaign](https://illinois.edu/about/index.html)**
 
 ## Publications ##
+**[Optimal Transport Enhanced Cross-City Site Recommendation](https://dl.acm.org/doi/abs/10.1145/3626772.3657757)**
+<br />
+    Xinhang Li, Xiangyu Zhao, Zihao Wang, **Yang Duan**, Yong Zhang, Chunxiao Xing
+<br />
+    In: Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'24)
+<br />
+    [https://dl.acm.org/doi/abs/10.1145/3626772.3657757](https://dl.acm.org/doi/abs/10.1145/3626772.3657757)
+<br />
+      
 **[Towards out-of-distribution generalizable predictions of chemical kinetics properties](https://openreview.net/forum?id=2vernsvOi2)**
 <br />
     Zihao Wang, Yongqiang Chen, **Yang Duan**, Weijiang Li, Bo Han, James Cheng, Hanghang Tong 
@@ -59,7 +68,7 @@ B.S. in Computer Science at **[University of Illinois Urbana-Champaign](https://
 <br />
     **Yang Duan**, Yong Zhang & Jiacheng Wu
 <br />
-    In: Xing, C., Fu, X., Zhang, Y., Zhang, G., Borjigin, C. (eds) Web Information Systems and Applications. WISA 2021. Lecture Notes in Computer Science(), vol 12999. Springer, Cham.
+    In: Xing, C., Fu, X., Zhang, Y., Zhang, G., Borjigin, C. (eds) Web Information Systems and Applications. WISA 2021. Lecture Notes in Computer Science, vol 12999. Springer, Cham.
 <br />
     https://doi.org/10.1007/978-3-030-87571-8_7
 <br />
