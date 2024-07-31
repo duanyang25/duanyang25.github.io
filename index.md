@@ -70,7 +70,7 @@ B.S. in Computer Science at **[University of Illinois Urbana-Champaign](https://
 <br />
     In: Xing, C., Fu, X., Zhang, Y., Zhang, G., Borjigin, C. (eds) Web Information Systems and Applications. WISA 2021. Lecture Notes in Computer Science, vol 12999. Springer, Cham.
 <br />
-    https://doi.org/10.1007/978-3-030-87571-8_7
+    [https://doi.org/10.1007/978-3-030-87571-8_7](https://doi.org/10.1007/978-3-030-87571-8_7)
 <br />
 [[code](https://github.com/thu-west/Learned-AQP)] 
 [<a href="https://duanyang25.github.io/assets/WISA2021/WISA2021presentation_online_pre_recording.mp4" target="_blank">video</a>]
