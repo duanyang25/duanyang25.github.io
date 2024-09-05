@@ -91,7 +91,7 @@ Research Assistant, **[Beijing National Research Center for Information Science 
 <br />
 Under the supervision of [Prof. Yong Zhang](https://dagege.github.io/)
 <br />
-    January 2021 - Present 
+    January 2021 - May 2024 
 <br />
     Beijing, China
 
