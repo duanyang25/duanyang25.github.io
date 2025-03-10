@@ -2,6 +2,7 @@
 layout: page
 title: About me
 ---
+
 <div style="padding-bottom:10px;text-align:left">
     <img style="float:right;text-align:left;border-radius:10%" src="/assets/avatar.jpg" alt="avatar" width="20%">
 </div>
